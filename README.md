@@ -1,5 +1,5 @@
 <p>
-  <a href="https://jungjunhyeok.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://jungjunhyeok.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-0ABF53?style=flat-square&logo=GitHub%20Bilibili&logoColor=white"/></a>
   <a href="ted05050505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ted05050505@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
