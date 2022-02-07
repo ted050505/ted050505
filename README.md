@@ -1,4 +1,4 @@
-## <img src="https://img.shields.io/badge/ted0505@naver.com-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+## <img src="https://img.shields.io/badge/ted0505@naver.com-#EA4335?style=flat-square&logo=Androld&logoColor=white"/>
 ---
 
 < 블로그 : https://jungjunhyeok.tistory.com/ >
