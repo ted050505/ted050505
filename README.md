@@ -7,7 +7,7 @@
 <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
 
 ## 🦘 최근 흥미로운 것 🦘
-<img src = "https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-react-black?style=flat&logo=react&logoColor=61DAFB" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 ## 💪Skills
 #### Tools
