@@ -12,7 +12,7 @@
   
 ## 🦘 최근 흥미로운 것 🦘
 <p>
-  <img src = "https://img.shields.io/badge/-JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=F7DF1E" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-react-black?style=flat&logo=react&logoColor=61DAFB" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+  <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=F7DF1E" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-react-black?style=flat&logo=react&logoColor=61DAFB" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 </p>
 
   
