@@ -16,7 +16,7 @@
 </p>
 
   
-## 💪Skills
+## 💪 Skills
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Ableton Live-000000?style=flat-square&logo=AbletonLive&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128? style=flat-square&logo=UnrealEngine&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=black" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
